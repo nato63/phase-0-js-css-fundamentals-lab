@@ -1,20 +1,12 @@
-
-/* Reset Default Style*/
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 /* Navigation Bar */
 .navbar {
-  background-color: #333;    /* Changed from 'background' */
-  font-size: 1.2em;         /* Changed from '1.2rem' */
+  background-color: #333;    
+  font-size: 1.2em;        
   position: fixed;
   text-align: center;
   top: 0;
   z-index: 1000;
-  padding: 1em;             /* Changed from '1rem' */
+  padding: 1em;             
   width: 100%;
 }
 
